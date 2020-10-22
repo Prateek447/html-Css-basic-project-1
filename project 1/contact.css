@@ -1,0 +1,54 @@
+body{
+	background-image:url('welcome.jpg');
+	background-repeat:none;
+	background-size:100% 100%;
+	margin: 0;
+}
+
+.sidebar{
+	height:100%;
+	width:150px;
+	position:fixed;
+	background-color:gray;
+	overflow-x:hidden;
+	padding-top:30px;
+}
+
+.sidebar a{
+	padding:10px 8px 8px 18px;
+	display:block;
+	color:white;
+	text-decoration:none;
+	font-size:25px;
+	
+}
+
+.sidebar a:hover{
+	background-color:blue;
+	color:white;
+}
+
+h1{
+	font-size:45px;
+	padding-top:100px;
+	padding-left:45%;
+	font-family:lato;
+	color:white;
+}
+
+h2{
+	padding:50px;
+	padding-left:42%;
+	font-size:30px;
+	color:white;
+	font-family:lato;
+	
+}
+
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	color:white;
+	padding:8px;
+}

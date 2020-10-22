@@ -1,0 +1,63 @@
+.navbar{
+	width:100%;
+	font-family:Lato;
+	background-color:red;
+	padding:10px;
+	overflow:auto;
+}
+
+.navbar a{
+	font-family:Lato;
+	color:white;
+	float:left;
+	text-decoration:none;
+	font-size:23px;
+	text-align:center;
+	width:33%;
+}
+
+.navbar a:hover{
+	background-color:white;
+	color:red;
+	
+}
+
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	text-align:center;
+	color:white;
+	background-color:green;
+	width:100%;
+}
+
+h1{
+	color:white;
+	font-family:lato;
+	padding-left:40%;
+	padding-top:5%;
+	font-size:50px;
+}
+
+h2{
+	color:white;
+	font-family:lato;
+	padding-left:43%;
+	font-size:30px;
+}
+
+h3{
+	color:white;
+	font-family:lato;
+	padding-left:45%;
+	font-size:20px;
+}
+
+
+body{
+	background-image:url('harley.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:0;
+}

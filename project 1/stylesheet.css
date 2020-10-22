@@ -1,0 +1,31 @@
+p{
+	color: red;
+	font-size: 17px;
+}
+
+html{
+	text-align: center;
+}
+.Main-Element{
+	font-family: Helvetic;
+}
+.Name{
+	font-family: Courier New;
+}
+#Copyright{
+	color: green;
+	font-family: italic;
+	padding-top: 50px;
+	font-size:20px;
+}
+.Hccol{
+	color: green;
+
+}
+.Lstyle{
+	font-family: italic;
+	color: blue;
+}
+body{
+ background-color: lightblue;
+}
